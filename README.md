@@ -39,4 +39,4 @@ brand des. | ux design | ui design
 
 Codigo:
 
-`print('Hello-world!')` :fire
+`print('Hello-world!')` :smile:
