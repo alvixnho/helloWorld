@@ -30,3 +30,9 @@ Lista de tarefas:
 - [ ] UI design
 - [ ] Código
 - [ ] MPV
+
+Tabelas:
+
+dia 1 | dia 2 | dia 3
+---|---|---|
+brand des. | ux design | ui design
